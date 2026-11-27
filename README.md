@@ -24,7 +24,7 @@
 
 **[ShizoDS118 4.4 Preview · офлайн-установщик для Windows x64](https://github.com/cheatty/ShizoDS118/releases/download/v4.4.0-preview/ShizoDS118-4.4-Preview-Setup-Offline.exe)**
 
-**[ShizoDS118 1.0 Preview · APK для Android 13+](https://github.com/cheatty/ShizoDS118/releases/download/android-v1.0.0-preview/ShizoDS118-Android-1.0-Preview.apk)** · [Что есть в Android-релизе](https://github.com/cheatty/ShizoDS118/releases/tag/android-v1.0.0-preview)
+**[ShizoDS118 1.1 Preview · APK для Android 13+](https://github.com/cheatty/ShizoDS118/releases/download/android-v1.1.0-preview/ShizoDS118-Android-1.1-Preview.apk)** · [Что нового в Android-релизе](https://github.com/cheatty/ShizoDS118/releases/tag/android-v1.1.0-preview)
 
 [Что добавлено в версии 4.4](https://github.com/cheatty/ShizoDS118/releases/tag/v4.4.0-preview)
 
