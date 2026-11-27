@@ -24,6 +24,8 @@
 
 **[ShizoDS118 4.4 Preview · офлайн-установщик для Windows x64](https://github.com/cheatty/ShizoDS118/releases/download/v4.4.0-preview/ShizoDS118-4.4-Preview-Setup-Offline.exe)**
 
+[Что добавлено в версии 4.4](https://github.com/cheatty/ShizoDS118/releases/tag/v4.4.0-preview)
+
 Перед обновлением выйди из старой версии через трей. После установки открой **Импорт**, выбери свой файл AmneziaWG **.conf** или вставь его текст. В том же окне есть **КФГ от Чипика · @chipikVPNbot**. Для запуска VPN нужен действующий профиль. [Открыть бота в Telegram](https://t.me/chipikVPNbot)
 
 ## DSbm
